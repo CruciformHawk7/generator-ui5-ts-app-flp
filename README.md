@@ -1,6 +1,6 @@
 # generator-ui5-ts-app-flp
 
-This is a fork of [generator-ui5-ts-app][https://github.com/ui5-community/generator-ui5-ts-app] with the addition of FLP Sandbox.
+This is a fork of [generator-ui5-ts-app](https://github.com/ui5-community/generator-ui5-ts-app) with the addition of FLP Sandbox.
 
 [![License Status][license-image]][license-url]
 
