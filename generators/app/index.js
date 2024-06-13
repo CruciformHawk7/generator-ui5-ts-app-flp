@@ -26,7 +26,7 @@ export default class extends Generator {
 	prompting() {
 		// Have Yeoman greet the user.
 		if (!this.options.embedded) {
-			this.log(yosay(`Welcome to the ${chalk.red("generator-ui5-ts-app")} generator!`));
+			this.log(yosay(`Welcome to the ${chalk.red("generator-ui5-ts-app-flp")} generator!`));
 		}
 
 		const minFwkVersion = {

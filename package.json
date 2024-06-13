@@ -1,5 +1,5 @@
 {
-	"name": "generator-ui5-ts-app",
+	"name": "generator-ui5-ts-app-flp",
 	"version": "1.1.0",
 	"description": "Yeoman-based (sub-)generator for a basic UI5 application based on TypeScript",
 	"main": "generators/app/index.js",
@@ -10,7 +10,7 @@
 		"lint:staged": "lint-staged",
 		"format": "prettier --write .",
 		"format:staged": "pretty-quick --staged --verbose",
-		"test": "cd test && yo ../../generator-ui5-ts-app",
+		"test": "cd test && yo ../../generator-ui5-ts-app-flp",
 		"prepare": "node ./.husky/skip.js || husky install",
 		"hooks:pre-commit": "npm-run-all --sequential format:staged lint:staged"
 	},
