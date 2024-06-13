@@ -23,6 +23,7 @@
 		"<%= tstypes %>": "<%= tstypesVersion %>",
 		"@typescript-eslint/eslint-plugin": "^6.20.0",
 		"@typescript-eslint/parser": "^6.20.0",
+		"@sap/ux-ui5-tooling": "^1.13.6",
 		"@ui5/cli": "^3.9.0",
 		"eslint": "^8.56.0",
 		"karma": "^6.4.2",
